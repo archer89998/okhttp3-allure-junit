@@ -1,0 +1,10 @@
+api\apiassert\ApiAssert.class
+api\reqres\pojo\users\PostUserPojo.class
+api\reqres\pojo\users\PostUserPojo$PostUserPojoBuilder.class
+api\reqres\pojo\users\RootUserPojo.class
+api\reqres\pojo\users\UserPojo.class
+api\reqres\ReqresApiException.class
+api\reqres\retrofit2\service\users\ReqResServiceFactory.class
+api\reqres\okhttp3\Okhtp3SuccessInterceptor.class
+api\reqres\retrofit2\service\users\UsersService.class
+api\reqres\pojo\users\RootUsersPojo.class

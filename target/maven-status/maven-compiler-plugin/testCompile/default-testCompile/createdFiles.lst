@@ -1,0 +1,9 @@
+encapsulation\ExtendedTestClass.class
+encapsulation\TestClass.class
+okhttp3\restApi\usersService\TestEncapsulation.class
+okhttp3\restApi\usersService\RequestResponseUsersServiceTest.class
+okhttp3\restApi\usersService\RequestResponseTest2.class
+encapsulation\DependenciesReader.class
+okhttp3\restApi\unknownService\RequestResponseTest1.class
+okhttp3\restApi\usersService\RequestResponseTest3.class
+encapsulation\PropertyReader.class

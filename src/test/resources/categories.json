@@ -1,0 +1,10 @@
+[
+
+  {
+    "name": "GetFail",
+    "matchesStatus": ["failed"],
+    "traceRegex": ".*Test"
+  }
+
+
+]

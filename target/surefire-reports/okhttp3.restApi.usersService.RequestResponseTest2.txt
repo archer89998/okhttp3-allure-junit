@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: okhttp3.restApi.usersService.RequestResponseTest2
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 4.522 s <<< FAILURE! - in okhttp3.restApi.usersService.RequestResponseTest2
+eachAvatarContainsIdForUsersOnPageTest  Time elapsed: 0.104 s  <<< FAILURE!
+org.assertj.core.error.AssertJMultipleFailuresError: 
+
+[POJO checker] (1 failure)
+-- failure 1 --
+[POJO 'id' is equals] 
+expected: 2
+ but was: 7
+at RequestResponseUsersServiceTest.lambda$step$0(RequestResponseUsersServiceTest.java:81)
+	at okhttp3.restApi.usersService.RequestResponseUsersServiceTest.step(RequestResponseUsersServiceTest.java:79)
+	at okhttp3.restApi.usersService.RequestResponseUsersServiceTest.eachAvatarContainsIdForUsersOnPageTest(RequestResponseUsersServiceTest.java:55)
+
+eachAvatarContainsIdForUsersOnPageTest  Time elapsed: 0.104 s  <<< FAILURE!
+org.assertj.core.error.AssertJMultipleFailuresError: 
+
+[POJO checker] (1 failure)
+-- failure 1 --
+[POJO 'id' is equals] 
+expected: 2
+ but was: 7
+at RequestResponseTest2.lambda$step$0(RequestResponseTest2.java:76)
+	at okhttp3.restApi.usersService.RequestResponseTest2.step(RequestResponseTest2.java:74)
+	at okhttp3.restApi.usersService.RequestResponseTest2.eachAvatarContainsIdForUsersOnPageTest(RequestResponseTest2.java:50)
+

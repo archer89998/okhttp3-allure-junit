@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: okhhtp3-allure-junit
+Automatic-Module-Name: okhhtp3-allure-junit
+Implementation-Version: 1.0.0
+
